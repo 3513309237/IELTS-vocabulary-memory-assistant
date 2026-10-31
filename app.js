@@ -1,6 +1,6 @@
 (() => {
-  const STORAGE_KEY = 'ielts-vocab-mvp-v4';
-  const VOCABULARY_VERSION = 4;
+  const STORAGE_KEY = 'ielts-vocab-mvp-v5';
+  const VOCABULARY_VERSION = 5;
   const words = window.WORDS;
   const app = document.getElementById('app');
   const overall = document.getElementById('overallProgress');
@@ -11,7 +11,7 @@
     const d = new Date();
     return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   };
-  function freshState() { return { version: 4, vocabularyVersion: VOCABULARY_VERSION, completed: {}, day: null, todayCompleted: 0, session: null }; }
+  function freshState() { return { version: 5, vocabularyVersion: VOCABULARY_VERSION, completed: {}, day: null, todayCompleted: 0, session: null }; }
   const record = value => value && typeof value === 'object' && !Array.isArray(value);
   const unique = list => Array.isArray(list) && list.every(x => typeof x === 'string') && new Set(list).size === list.length;
   const wordById = id => words.find(w => w.word === id);
@@ -37,7 +37,7 @@
   state = loadState();
 
   function validateState(data) {
-    if (!record(data) || data.version !== 4 || !record(data.completed) || !Object.values(data.completed).every(v => typeof v === 'boolean')) throw new Error('进度文件格式不正确');
+    if (!record(data) || data.version !== 5 || !record(data.completed) || !Object.values(data.completed).every(v => typeof v === 'boolean')) throw new Error('进度文件格式不正确');
     if (data.day !== null && (typeof data.day !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(data.day))) throw new Error('进度文件日期不正确');
     if (!Number.isInteger(data.todayCompleted) || data.todayCompleted < 0) throw new Error('进度文件格式不正确');
     const next = JSON.parse(JSON.stringify(data));
@@ -78,7 +78,7 @@
       for (const raw of rawValues) {
         let data;
         try { data = JSON.parse(raw); } catch (error) { lastError = error; continue; }
-        if (!data || data.version !== 4) continue;
+        if (!data || data.version !== 5) continue;
         fallback ||= data;
         try { return validateState(data); } catch (error) { lastError = error; }
       }
@@ -202,8 +202,8 @@
     app.innerHTML=`<section class="card narrow completion"><div class="big">✓</div><p class="eyebrow">TODAY COMPLETE</p><h2>这一批单词都过关了</h2><p class="subtle">可以结束今天的学习，也可以继续追加一批。</p><div class="stats"><div class="stat"><strong>${batch}</strong><span>本批完成</span></div><div class="stat"><strong>${state.todayCompleted}</strong><span>今日累计完成</span></div><div class="stat"><strong>${completedCount()} / ${words.length}</strong><span>累计过关</span></div></div>${remainingWords().length?'<button id="addTask" class="primary">今天再设一个任务</button>':''}</section>`;
     if(remainingWords().length) document.getElementById('addTask').addEventListener('click',()=>renderSetup(true));
   }
-  function renderAllDone(){app.innerHTML=`<section class="card narrow completion"><div class="big">🎉</div><p class="eyebrow">WORD LIST 01</p><h2>当前词库已学完</h2><p class="subtle">这份词库中的 ${words.length} 个单词都已过关。</p></section>`;}
-  function normalizeImported(data){if(!data||data.version!==4)throw new Error('旧版进度不兼容，请重新开始');return validateState(data);}
+  function renderAllDone(){app.innerHTML=`<section class="card narrow completion"><div class="big">🎉</div><p class="eyebrow">WORD LISTS 01-05</p><h2>当前词库已学完</h2><p class="subtle">这份词库中的 ${words.length} 个单词都已过关。</p></section>`;}
+  function normalizeImported(data){if(!data||data.version!==5)throw new Error('旧版进度不兼容，请重新开始');return validateState(data);}
   document.getElementById('exportBtn').addEventListener('click',()=>{const blob=new Blob([JSON.stringify({...state, vocabularyVersion:VOCABULARY_VERSION},null,2)],{type:'application/json'});const url=URL.createObjectURL(blob),a=document.createElement('a');a.href=url;a.download=`ielts-vocab-progress-${todayKey()}.json`;a.click();URL.revokeObjectURL(url);});
   document.getElementById('importInput').addEventListener('change',async e=>{const file=e.target.files[0];if(!file)return;try{const data=normalizeImported(JSON.parse(await file.text()));if(!confirm('导入会覆盖当前浏览器中的全部进度，确定继续吗？'))return;state=data;ensureToday();save();render();}catch(error){alert(`无法导入：${error.message}`);}finally{e.target.value='';}});
   document.getElementById('clearBtn').addEventListener('click',()=>{
