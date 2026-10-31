@@ -1,0 +1,1225 @@
+[
+  {
+    "word": "delve",
+    "phonetic": "[delv]",
+    "meanings": [
+      {
+        "id": "delve-0",
+        "pos": "v.",
+        "text": "钻研",
+        "exampleEn": "She delved into the scientific papers before writing her report.",
+        "exampleZh": "她在写报告前钻研了那些科学论文。"
+      },
+      {
+        "id": "delve-1",
+        "pos": "v.",
+        "text": "探索",
+        "exampleEn": "The expedition delved into the history of the abandoned village.",
+        "exampleZh": "这次考察深入探索了这个废弃村庄的历史。"
+      }
+    ]
+  },
+  {
+    "word": "exact",
+    "phonetic": "[ɪgˈzækt]",
+    "meanings": [
+      {
+        "id": "exact-0",
+        "pos": "adj.",
+        "text": "精确的",
+        "exampleEn": "Please tell me the exact time of the meeting.",
+        "exampleZh": "请告诉我会议的确切时间。"
+      }
+    ]
+  },
+  {
+    "word": "elicit",
+    "phonetic": "[ɪˈlɪsɪt]",
+    "meanings": [
+      {
+        "id": "elicit-0",
+        "pos": "v.",
+        "text": "引出",
+        "exampleEn": "The question elicited a thoughtful response from the class.",
+        "exampleZh": "这个问题引出了全班经过深思熟虑的回答。"
+      }
+    ]
+  },
+  {
+    "word": "traditional",
+    "phonetic": "[trəˈdɪʃənl]",
+    "meanings": [
+      {
+        "id": "traditional-0",
+        "pos": "adj.",
+        "text": "传统的",
+        "exampleEn": "They serve traditional food at the festival.",
+        "exampleZh": "他们在节日里供应传统食物。"
+      },
+      {
+        "id": "traditional-1",
+        "pos": "adj.",
+        "text": "口传的",
+        "exampleEn": "The story is part of a traditional oral history.",
+        "exampleZh": "这个故事属于口传历史的一部分。"
+      }
+    ]
+  },
+  {
+    "word": "lack",
+    "phonetic": "[læk]",
+    "meanings": [
+      {
+        "id": "lack-0",
+        "pos": "v.",
+        "text": "缺乏",
+        "exampleEn": "The project failed because it lacked funding.",
+        "exampleZh": "这个项目因缺乏资金而失败。"
+      }
+    ]
+  },
+  {
+    "word": "regent",
+    "phonetic": "[ˈriːdʒənt]",
+    "meanings": [
+      {
+        "id": "regent-0",
+        "pos": "n.",
+        "text": "摄政者",
+        "exampleEn": "A regent governed the country until the young king grew up.",
+        "exampleZh": "一位摄政者治理国家，直到年轻的国王成年。"
+      }
+    ]
+  },
+  {
+    "word": "burgeon",
+    "phonetic": "[ˈbɜːrdʒən]",
+    "meanings": [
+      {
+        "id": "burgeon-0",
+        "pos": "v.",
+        "text": "迅速成长",
+        "exampleEn": "The small company burgeoned into a major technology firm.",
+        "exampleZh": "这家小公司迅速成长为一家大型科技企业。"
+      },
+      {
+        "id": "burgeon-1",
+        "pos": "v.",
+        "text": "发展",
+        "exampleEn": "New ideas began to burgeon after the workshop.",
+        "exampleZh": "研讨会后，新想法开始蓬勃发展。"
+      }
+    ]
+  },
+  {
+    "word": "argue",
+    "phonetic": "[ˈɑːrɡjuː]",
+    "meanings": [
+      {
+        "id": "argue-0",
+        "pos": "v.",
+        "text": "争论",
+        "exampleEn": "The two students argued about which plan was better.",
+        "exampleZh": "两名学生争论哪个计划更好。"
+      },
+      {
+        "id": "argue-1",
+        "pos": "v.",
+        "text": "论证",
+        "exampleEn": "The researcher argues that sleep improves memory.",
+        "exampleZh": "研究人员论证睡眠能改善记忆。"
+      },
+      {
+        "id": "argue-2",
+        "pos": "v.",
+        "text": "主张",
+        "exampleEn": "The report argues for stricter safety rules.",
+        "exampleZh": "这份报告主张制定更严格的安全规则。"
+      }
+    ]
+  },
+  {
+    "word": "barely",
+    "phonetic": "[ˈberli]",
+    "meanings": [
+      {
+        "id": "barely-0",
+        "pos": "adv.",
+        "text": "几乎不",
+        "exampleEn": "I could barely hear the speaker from the back row.",
+        "exampleZh": "我在后排几乎听不见演讲者的声音。"
+      },
+      {
+        "id": "barely-1",
+        "pos": "adv.",
+        "text": "勉强",
+        "exampleEn": "She barely finished the assignment before the deadline.",
+        "exampleZh": "她勉强在截止时间前完成了作业。"
+      }
+    ]
+  },
+  {
+    "word": "hierarchy",
+    "phonetic": "[ˈhaɪərɑːrki]",
+    "meanings": [
+      {
+        "id": "hierarchy-0",
+        "pos": "n.",
+        "text": "等级体系",
+        "exampleEn": "The company has a clear hierarchy of managers.",
+        "exampleZh": "这家公司有明确的管理层级。"
+      }
+    ]
+  },
+  {
+    "word": "guidance",
+    "phonetic": "[ˈɡaɪdns]",
+    "meanings": [
+      {
+        "id": "guidance-0",
+        "pos": "n.",
+        "text": "指导",
+        "exampleEn": "Students can ask their teachers for guidance.",
+        "exampleZh": "学生可以向老师寻求指导。"
+      }
+    ]
+  },
+  {
+    "word": "easy-going",
+    "phonetic": "[ˌiːzi ˈɡoʊɪŋ]",
+    "meanings": [
+      {
+        "id": "easy-going-0",
+        "pos": "adj.",
+        "text": "随和的",
+        "exampleEn": "Our new teacher is friendly and easy-going.",
+        "exampleZh": "我们的新老师友好随和。"
+      }
+    ]
+  },
+  {
+    "word": "electrical",
+    "phonetic": "[ɪˈlektrɪkl]",
+    "meanings": [
+      {
+        "id": "electrical-0",
+        "pos": "adj.",
+        "text": "电的",
+        "exampleEn": "An electrical fault caused the lights to go out.",
+        "exampleZh": "电路故障导致灯熄灭。"
+      }
+    ]
+  },
+  {
+    "word": "electronic",
+    "phonetic": "[ɪˌlekˈtrɑːnɪk]",
+    "meanings": [
+      {
+        "id": "electronic-0",
+        "pos": "adj.",
+        "text": "电子的",
+        "exampleEn": "She keeps an electronic copy of the report.",
+        "exampleZh": "她保存了一份报告的电子版。"
+      }
+    ]
+  },
+  {
+    "word": "philosophy",
+    "phonetic": "[fəˈlɑːsəfi]",
+    "meanings": [
+      {
+        "id": "philosophy-0",
+        "pos": "n.",
+        "text": "哲学",
+        "exampleEn": "He studied philosophy at university.",
+        "exampleZh": "他在大学学习哲学。"
+      },
+      {
+        "id": "philosophy-1",
+        "pos": "n.",
+        "text": "人生哲理",
+        "exampleEn": "Her philosophy is to treat everyone with respect.",
+        "exampleZh": "她的人生理念是尊重每一个人。"
+      }
+    ]
+  },
+  {
+    "word": "chronic",
+    "phonetic": "[ˈkrɑːnɪk]",
+    "meanings": [
+      {
+        "id": "chronic-0",
+        "pos": "adj.",
+        "text": "慢性的",
+        "exampleEn": "He receives treatment for chronic back pain.",
+        "exampleZh": "他因慢性背痛接受治疗。"
+      }
+    ]
+  },
+  {
+    "word": "desirable",
+    "phonetic": "[dɪˈzaɪərəbl]",
+    "meanings": [
+      {
+        "id": "desirable-0",
+        "pos": "adj.",
+        "text": "值得拥有的",
+        "exampleEn": "A short journey to work is desirable for many people.",
+        "exampleZh": "对许多人来说，通勤时间短很有吸引力。"
+      }
+    ]
+  },
+  {
+    "word": "consortium",
+    "phonetic": "[kənˈsɔːrʃəm]",
+    "meanings": [
+      {
+        "id": "consortium-0",
+        "pos": "n.",
+        "text": "财团",
+        "exampleEn": "A consortium of banks financed the bridge.",
+        "exampleZh": "一个由多家银行组成的财团为这座桥提供了资金。"
+      }
+    ]
+  },
+  {
+    "word": "buckle",
+    "phonetic": "[ˈbʌkl]",
+    "meanings": [
+      {
+        "id": "buckle-0",
+        "pos": "v.",
+        "text": "扣紧",
+        "exampleEn": "Buckle your seat belt before the car starts moving.",
+        "exampleZh": "汽车启动前请扣好安全带。"
+      },
+      {
+        "id": "buckle-1",
+        "pos": "v.",
+        "text": "弯曲",
+        "exampleEn": "The metal bar buckled under the heavy load.",
+        "exampleZh": "金属杆在重压下弯曲了。"
+      },
+      {
+        "id": "buckle-2",
+        "pos": "v.",
+        "text": "变形",
+        "exampleEn": "The plastic container buckled in the heat.",
+        "exampleZh": "塑料容器在高温下变形了。"
+      }
+    ]
+  },
+  {
+    "word": "curry",
+    "phonetic": "[ˈkɜːri]",
+    "meanings": [
+      {
+        "id": "curry-0",
+        "pos": "n.",
+        "text": "咖喱",
+        "exampleEn": "We ordered a vegetable curry for dinner.",
+        "exampleZh": "我们晚餐点了一份蔬菜咖喱。"
+      }
+    ]
+  },
+  {
+    "word": "subliminal",
+    "phonetic": "[ˌsʌbˈlɪmɪnl]",
+    "meanings": [
+      {
+        "id": "subliminal-0",
+        "pos": "adj.",
+        "text": "潜意识的",
+        "exampleEn": "The advertisement contained a subliminal message.",
+        "exampleZh": "这则广告包含一条潜意识信息。"
+      }
+    ]
+  },
+  {
+    "word": "chamber",
+    "phonetic": "[ˈtʃeɪmbər]",
+    "meanings": [
+      {
+        "id": "chamber-0",
+        "pos": "n.",
+        "text": "房间",
+        "exampleEn": "The visitors entered a quiet chamber filled with old maps.",
+        "exampleZh": "参观者走进了一间摆满旧地图的安静房间。"
+      },
+      {
+        "id": "chamber-1",
+        "pos": "n.",
+        "text": "洞穴",
+        "exampleEn": "The divers discovered a hidden chamber beneath the lake.",
+        "exampleZh": "潜水员在湖下发现了一个隐藏的洞穴。"
+      },
+      {
+        "id": "chamber-2",
+        "pos": "n.",
+        "text": "腔室",
+        "exampleEn": "Air was trapped inside the chamber of the machine.",
+        "exampleZh": "空气被困在机器的腔室里。"
+      }
+    ]
+  },
+  {
+    "word": "frequent",
+    "phonetic": "[ˈfriːkwənt]",
+    "meanings": [
+      {
+        "id": "frequent-0",
+        "pos": "adj.",
+        "text": "频繁的",
+        "exampleEn": "Frequent practice is the best way to improve pronunciation.",
+        "exampleZh": "频繁练习是提高发音的最好方法。"
+      },
+      {
+        "id": "frequent-1",
+        "pos": "adj.",
+        "text": "常见的",
+        "exampleEn": "Headaches are a common symptom of dehydration.",
+        "exampleZh": "头痛是脱水的常见症状。"
+      }
+    ]
+  },
+  {
+    "word": "prosperous",
+    "phonetic": "[ˈprɑːspərəs]",
+    "meanings": [
+      {
+        "id": "prosperous-0",
+        "pos": "adj.",
+        "text": "繁荣的",
+        "exampleEn": "The once quiet port became a prosperous trading centre.",
+        "exampleZh": "这个曾经安静的港口变成了繁荣的贸易中心。"
+      },
+      {
+        "id": "prosperous-1",
+        "pos": "adj.",
+        "text": "富裕的",
+        "exampleEn": "The prosperous family donated money to the local school.",
+        "exampleZh": "这个富裕的家庭向当地学校捐了钱。"
+      }
+    ]
+  },
+  {
+    "word": "purpose",
+    "phonetic": "[ˈpɜːrpəs]",
+    "meanings": [
+      {
+        "id": "purpose-0",
+        "pos": "n.",
+        "text": "目的",
+        "exampleEn": "The purpose of the meeting is to discuss the budget.",
+        "exampleZh": "会议的目的是讨论预算。"
+      },
+      {
+        "id": "purpose-1",
+        "pos": "n.",
+        "text": "用途",
+        "exampleEn": "What is the purpose of this tool?",
+        "exampleZh": "这个工具有什么用途？"
+      }
+    ]
+  },
+  {
+    "word": "variety",
+    "phonetic": "[vəˈraɪəti]",
+    "meanings": [
+      {
+        "id": "variety-0",
+        "pos": "n.",
+        "text": "种类",
+        "exampleEn": "The shop offers a wide variety of teas.",
+        "exampleZh": "这家商店提供种类繁多的茶。"
+      },
+      {
+        "id": "variety-1",
+        "pos": "n.",
+        "text": "多样性",
+        "exampleEn": "The course gains strength from the variety of its topics.",
+        "exampleZh": "这门课程因主题的多样性而更有吸引力。"
+      },
+      {
+        "id": "variety-2",
+        "pos": "n.",
+        "text": "变化",
+        "exampleEn": "A little variety makes a daily routine less boring.",
+        "exampleZh": "一点变化能让日常生活不那么乏味。"
+      }
+    ]
+  },
+  {
+    "word": "immigration",
+    "phonetic": "[ˌɪmɪˈɡreɪʃn]",
+    "meanings": [
+      {
+        "id": "immigration-0",
+        "pos": "n.",
+        "text": "移民",
+        "exampleEn": "The city has welcomed immigration from many countries.",
+        "exampleZh": "这座城市接纳了来自许多国家的移民。"
+      },
+      {
+        "id": "immigration-1",
+        "pos": "n.",
+        "text": "移居",
+        "exampleEn": "Immigration to the region increased after new jobs were created.",
+        "exampleZh": "新工作出现后，移居该地区的人数增加了。"
+      }
+    ]
+  },
+  {
+    "word": "natural",
+    "phonetic": "[ˈnætʃrəl]",
+    "meanings": [
+      {
+        "id": "natural-0",
+        "pos": "adj.",
+        "text": "自然的",
+        "exampleEn": "The park protects the natural landscape along the river.",
+        "exampleZh": "公园保护着河流沿岸的自然景观。"
+      },
+      {
+        "id": "natural-1",
+        "pos": "adj.",
+        "text": "正常的",
+        "exampleEn": "It is natural to feel nervous before an important interview.",
+        "exampleZh": "在重要面试前感到紧张是正常的。"
+      }
+    ]
+  },
+  {
+    "word": "bet",
+    "phonetic": "[bet]",
+    "meanings": [
+      {
+        "id": "bet-0",
+        "pos": "v.",
+        "text": "打赌",
+        "exampleEn": "I bet that our team will win the match.",
+        "exampleZh": "我打赌我们队会赢得比赛。"
+      },
+      {
+        "id": "bet-1",
+        "pos": "n.",
+        "text": "赌注",
+        "exampleEn": "He placed a small bet on the race.",
+        "exampleZh": "他在比赛上押了一小笔赌注。"
+      }
+    ]
+  },
+  {
+    "word": "consumer",
+    "phonetic": "[kənˈsuːmər]",
+    "meanings": [
+      {
+        "id": "consumer-0",
+        "pos": "n.",
+        "text": "消费者",
+        "exampleEn": "Consumers can compare prices online.",
+        "exampleZh": "消费者可以在网上比较价格。"
+      }
+    ]
+  },
+  {
+    "word": "physician",
+    "phonetic": "[fɪˈzɪʃn]",
+    "meanings": [
+      {
+        "id": "physician-0",
+        "pos": "n.",
+        "text": "医生",
+        "exampleEn": "A physician examined the patient at the clinic.",
+        "exampleZh": "一名医生在诊所为病人做了检查。"
+      }
+    ]
+  },
+  {
+    "word": "equal",
+    "phonetic": "[ˈiːkwəl]",
+    "meanings": [
+      {
+        "id": "equal-0",
+        "pos": "adj.",
+        "text": "相等的",
+        "exampleEn": "The two boxes are equal in size.",
+        "exampleZh": "这两个盒子的大小相等。"
+      },
+      {
+        "id": "equal-1",
+        "pos": "v.",
+        "text": "等于",
+        "exampleEn": "Three times four equals twelve.",
+        "exampleZh": "三乘四等于十二。"
+      },
+      {
+        "id": "equal-2",
+        "pos": "adj.",
+        "text": "能胜任的",
+        "exampleEn": "She is equal to the challenge of leading the team.",
+        "exampleZh": "她能够胜任带领团队的挑战。"
+      }
+    ]
+  },
+  {
+    "word": "resort",
+    "phonetic": "[rɪˈzɔːrt]",
+    "meanings": [
+      {
+        "id": "resort-0",
+        "pos": "n.",
+        "text": "度假胜地",
+        "exampleEn": "The coastal resort attracts visitors in summer.",
+        "exampleZh": "这个海滨度假胜地在夏季吸引游客。"
+      },
+      {
+        "id": "resort-1",
+        "pos": "v.",
+        "text": "诉诸",
+        "exampleEn": "The two sides resorted to negotiation to solve the dispute.",
+        "exampleZh": "双方诉诸谈判来解决争端。"
+      }
+    ]
+  },
+  {
+    "word": "leadership",
+    "phonetic": "[ˈliːdərʃɪp]",
+    "meanings": [
+      {
+        "id": "leadership-0",
+        "pos": "n.",
+        "text": "领导能力",
+        "exampleEn": "Her leadership helped the team overcome the crisis.",
+        "exampleZh": "她的领导能力帮助团队克服了危机。"
+      },
+      {
+        "id": "leadership-1",
+        "pos": "n.",
+        "text": "领导层",
+        "exampleEn": "The leadership announced a new plan.",
+        "exampleZh": "领导层宣布了一项新计划。"
+      }
+    ]
+  },
+  {
+    "word": "equity",
+    "phonetic": "[ˈekwəti]",
+    "meanings": [
+      {
+        "id": "equity-0",
+        "pos": "n.",
+        "text": "公平",
+        "exampleEn": "The policy aims to improve equity in education.",
+        "exampleZh": "这项政策旨在促进教育公平。"
+      }
+    ]
+  },
+  {
+    "word": "excavate",
+    "phonetic": "[ˈekskəveɪt]",
+    "meanings": [
+      {
+        "id": "excavate-0",
+        "pos": "v.",
+        "text": "挖掘",
+        "exampleEn": "Archaeologists excavated pottery from the ancient settlement.",
+        "exampleZh": "考古学家从古代聚落中挖掘出陶器。"
+      },
+      {
+        "id": "excavate-1",
+        "pos": "v.",
+        "text": "开凿",
+        "exampleEn": "Workers excavated a tunnel through the mountain.",
+        "exampleZh": "工人们在山中开凿了一条隧道。"
+      }
+    ]
+  },
+  {
+    "word": "nuclear",
+    "phonetic": "[ˈnuːkliər]",
+    "meanings": [
+      {
+        "id": "nuclear-0",
+        "pos": "adj.",
+        "text": "核的",
+        "exampleEn": "The country generates electricity from nuclear power.",
+        "exampleZh": "这个国家利用核能发电。"
+      }
+    ]
+  },
+  {
+    "word": "mutual",
+    "phonetic": "[ˈmjuːtʃuəl]",
+    "meanings": [
+      {
+        "id": "mutual-0",
+        "pos": "adj.",
+        "text": "相互的",
+        "exampleEn": "Trust and mutual respect are essential to friendship.",
+        "exampleZh": "信任和相互尊重对友谊至关重要。"
+      }
+    ]
+  },
+  {
+    "word": "density",
+    "phonetic": "[ˈdensəti]",
+    "meanings": [
+      {
+        "id": "density-0",
+        "pos": "n.",
+        "text": "密度",
+        "exampleEn": "The map shows the population density of each region.",
+        "exampleZh": "这张地图显示了各地区的人口密度。"
+      }
+    ]
+  },
+  {
+    "word": "massive",
+    "phonetic": "[ˈmæsɪv]",
+    "meanings": [
+      {
+        "id": "massive-0",
+        "pos": "adj.",
+        "text": "巨大的",
+        "exampleEn": "The city invested in a massive transport project.",
+        "exampleZh": "这座城市投资了一项大型交通工程。"
+      }
+    ]
+  },
+  {
+    "word": "congratulate",
+    "phonetic": "[kənˈɡrætʃuleɪt]",
+    "meanings": [
+      {
+        "id": "congratulate-0",
+        "pos": "v.",
+        "text": "祝贺",
+        "exampleEn": "I called to congratulate her on passing the exam.",
+        "exampleZh": "我打电话祝贺她通过考试。"
+      }
+    ]
+  },
+  {
+    "word": "companion",
+    "phonetic": "[kəmˈpænjən]",
+    "meanings": [
+      {
+        "id": "companion-0",
+        "pos": "n.",
+        "text": "同伴",
+        "exampleEn": "Her companion waited for her outside the station.",
+        "exampleZh": "她的同伴在车站外等她。"
+      }
+    ]
+  },
+  {
+    "word": "rig",
+    "phonetic": "[rɪɡ]",
+    "meanings": [
+      {
+        "id": "rig-0",
+        "pos": "v.",
+        "text": "操纵",
+        "exampleEn": "The officials were accused of trying to rig the election.",
+        "exampleZh": "这些官员被指控企图操纵选举。"
+      },
+      {
+        "id": "rig-1",
+        "pos": "v.",
+        "text": "装配",
+        "exampleEn": "They rigged a temporary shelter with a sheet of canvas.",
+        "exampleZh": "他们用一块帆布搭建了临时住所。"
+      }
+    ]
+  },
+  {
+    "word": "input",
+    "phonetic": "[ˈɪnpʊt]",
+    "meanings": [
+      {
+        "id": "input-0",
+        "pos": "n.",
+        "text": "投入",
+        "exampleEn": "The committee welcomed input from local residents.",
+        "exampleZh": "委员会欢迎当地居民提出意见。"
+      },
+      {
+        "id": "input-1",
+        "pos": "n.",
+        "text": "输入的信息",
+        "exampleEn": "The software checks each input before saving it.",
+        "exampleZh": "软件在保存前会检查每条输入信息。"
+      }
+    ]
+  },
+  {
+    "word": "merely",
+    "phonetic": "[ˈmɪrli]",
+    "meanings": [
+      {
+        "id": "merely-0",
+        "pos": "adv.",
+        "text": "仅仅",
+        "exampleEn": "The delay was merely a minor inconvenience.",
+        "exampleZh": "这次延误只不过是一个小小的不便。"
+      }
+    ]
+  },
+  {
+    "word": "impart",
+    "phonetic": "[ɪmˈpɑːrt]",
+    "meanings": [
+      {
+        "id": "impart-0",
+        "pos": "v.",
+        "text": "传授",
+        "exampleEn": "The mentor imparted useful skills to the new staff.",
+        "exampleZh": "导师向新员工传授了有用的技能。"
+      },
+      {
+        "id": "impart-1",
+        "pos": "v.",
+        "text": "告知",
+        "exampleEn": "The guide imparted the latest travel advice to us.",
+        "exampleZh": "导游把最新的旅行建议告知了我们。"
+      },
+      {
+        "id": "impart-2",
+        "pos": "v.",
+        "text": "赋予",
+        "exampleEn": "The sunlight imparted a warm colour to the room.",
+        "exampleZh": "阳光赋予房间一种温暖的色彩。"
+      }
+    ]
+  },
+  {
+    "word": "forfeit",
+    "phonetic": "[ˈfɔːrfɪt]",
+    "meanings": [
+      {
+        "id": "forfeit-0",
+        "pos": "v.",
+        "text": "丧失",
+        "exampleEn": "You may forfeit your deposit if you cancel late.",
+        "exampleZh": "如果取消得太晚，你可能会失去押金。"
+      },
+      {
+        "id": "forfeit-1",
+        "pos": "v.",
+        "text": "被没收",
+        "exampleEn": "The illegal goods were forfeited to the government.",
+        "exampleZh": "这些违禁品被没收并交给了政府。"
+      }
+    ]
+  },
+  {
+    "word": "counteract",
+    "phonetic": "[ˌkaʊntərˈækt]",
+    "meanings": [
+      {
+        "id": "counteract-0",
+        "pos": "v.",
+        "text": "抵消",
+        "exampleEn": "Regular exercise can counteract some effects of stress.",
+        "exampleZh": "定期锻炼可以抵消压力的某些影响。"
+      }
+    ]
+  },
+  {
+    "word": "ventilation",
+    "phonetic": "[ˌventɪˈleɪʃn]",
+    "meanings": [
+      {
+        "id": "ventilation-0",
+        "pos": "n.",
+        "text": "通风",
+        "exampleEn": "Good ventilation helps keep the room dry.",
+        "exampleZh": "良好的通风有助于保持房间干燥。"
+      }
+    ]
+  },
+  {
+    "word": "intermediate",
+    "phonetic": "[ˌɪntərˈmiːdiət]",
+    "meanings": [
+      {
+        "id": "intermediate-0",
+        "pos": "adj.",
+        "text": "中级的",
+        "exampleEn": "She joined an intermediate English class.",
+        "exampleZh": "她参加了一个中级英语班。"
+      },
+      {
+        "id": "intermediate-1",
+        "pos": "adj.",
+        "text": "中间的",
+        "exampleEn": "The intermediate stage took several months.",
+        "exampleZh": "中间阶段持续了几个月。"
+      }
+    ]
+  },
+  {
+    "word": "eternal",
+    "phonetic": "[ɪˈtɜːrnl]",
+    "meanings": [
+      {
+        "id": "eternal-0",
+        "pos": "adj.",
+        "text": "永恒的",
+        "exampleEn": "The poem explores the idea of eternal love.",
+        "exampleZh": "这首诗探讨了永恒之爱的主题。"
+      }
+    ]
+  },
+  {
+    "word": "invasion",
+    "phonetic": "[ɪnˈveɪʒn]",
+    "meanings": [
+      {
+        "id": "invasion-0",
+        "pos": "n.",
+        "text": "入侵",
+        "exampleEn": "The invasion forced many families to leave their homes.",
+        "exampleZh": "入侵迫使许多家庭离开家园。"
+      }
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "phonetic": "[ˌnevərðəˈles]",
+    "meanings": [
+      {
+        "id": "nevertheless-0",
+        "pos": "adv.",
+        "text": "尽管如此",
+        "exampleEn": "It was raining; nevertheless, they continued their walk.",
+        "exampleZh": "当时正在下雨，尽管如此，他们还是继续散步。"
+      }
+    ]
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "[ˈseləbreɪt]",
+    "meanings": [
+      {
+        "id": "celebrate-0",
+        "pos": "v.",
+        "text": "庆祝",
+        "exampleEn": "We celebrated her birthday with a family dinner.",
+        "exampleZh": "我们举行家庭晚餐庆祝她的生日。"
+      },
+      {
+        "id": "celebrate-1",
+        "pos": "v.",
+        "text": "赞美",
+        "exampleEn": "The exhibition celebrates the work of local artists.",
+        "exampleZh": "这场展览颂扬当地艺术家的作品。"
+      }
+    ]
+  },
+  {
+    "word": "inspiring",
+    "phonetic": "[ɪnˈspaɪərɪŋ]",
+    "meanings": [
+      {
+        "id": "inspiring-0",
+        "pos": "adj.",
+        "text": "鼓舞人心的",
+        "exampleEn": "Her inspiring speech encouraged the students to keep trying.",
+        "exampleZh": "她鼓舞人心的演讲激励学生们继续努力。"
+      }
+    ]
+  },
+  {
+    "word": "attendance",
+    "phonetic": "[əˈtendəns]",
+    "meanings": [
+      {
+        "id": "attendance-0",
+        "pos": "n.",
+        "text": "出席",
+        "exampleEn": "Regular attendance is important for this course.",
+        "exampleZh": "按时出勤对这门课程很重要。"
+      },
+      {
+        "id": "attendance-1",
+        "pos": "n.",
+        "text": "出席人数",
+        "exampleEn": "Attendance at the concert exceeded expectations.",
+        "exampleZh": "音乐会的出席人数超过了预期。"
+      }
+    ]
+  },
+  {
+    "word": "optional",
+    "phonetic": "[ˈɑːpʃənl]",
+    "meanings": [
+      {
+        "id": "optional-0",
+        "pos": "adj.",
+        "text": "可选择的",
+        "exampleEn": "The afternoon workshop is optional.",
+        "exampleZh": "下午的研讨会可以自愿参加。"
+      }
+    ]
+  },
+  {
+    "word": "heal",
+    "phonetic": "[hiːl]",
+    "meanings": [
+      {
+        "id": "heal-0",
+        "pos": "v.",
+        "text": "治愈",
+        "exampleEn": "The cut should heal within a few days.",
+        "exampleZh": "这个伤口应该在几天内愈合。"
+      },
+      {
+        "id": "heal-1",
+        "pos": "v.",
+        "text": "弥合",
+        "exampleEn": "The conversation helped heal the division between them.",
+        "exampleZh": "这次谈话帮助弥合了他们之间的分歧。"
+      }
+    ]
+  },
+  {
+    "word": "enable",
+    "phonetic": "[ɪˈneɪbl]",
+    "meanings": [
+      {
+        "id": "enable-0",
+        "pos": "v.",
+        "text": "使能够",
+        "exampleEn": "The new ramp enables wheelchair users to enter the library.",
+        "exampleZh": "新坡道使轮椅使用者能够进入图书馆。"
+      }
+    ]
+  },
+  {
+    "word": "dismantle",
+    "phonetic": "[dɪˈsmæntl]",
+    "meanings": [
+      {
+        "id": "dismantle-0",
+        "pos": "v.",
+        "text": "拆除",
+        "exampleEn": "Workers dismantled the old bridge carefully.",
+        "exampleZh": "工人们小心地拆除了旧桥。"
+      },
+      {
+        "id": "dismantle-1",
+        "pos": "v.",
+        "text": "废除",
+        "exampleEn": "The government decided to dismantle the organisation.",
+        "exampleZh": "政府决定解散这个组织。"
+      }
+    ]
+  },
+  {
+    "word": "wage",
+    "phonetic": "[weɪdʒ]",
+    "meanings": [
+      {
+        "id": "wage-0",
+        "pos": "n.",
+        "text": "工资",
+        "exampleEn": "The workers receive their wages every Friday.",
+        "exampleZh": "工人们每周五领取工资。"
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "phonetic": "[ˈlændskeɪp]",
+    "meanings": [
+      {
+        "id": "landscape-0",
+        "pos": "n.",
+        "text": "风景",
+        "exampleEn": "Snow covered the mountain landscape.",
+        "exampleZh": "白雪覆盖着山间的景色。"
+      },
+      {
+        "id": "landscape-1",
+        "pos": "n.",
+        "text": "地形",
+        "exampleEn": "The river has shaped the landscape over thousands of years.",
+        "exampleZh": "这条河历经数千年塑造了这里的地貌。"
+      }
+    ]
+  },
+  {
+    "word": "emotion",
+    "phonetic": "[ɪˈmoʊʃn]",
+    "meanings": [
+      {
+        "id": "emotion-0",
+        "pos": "n.",
+        "text": "情感",
+        "exampleEn": "Music can express emotion without words.",
+        "exampleZh": "音乐不需要语言就能表达情感。"
+      }
+    ]
+  },
+  {
+    "word": "commonwealth",
+    "phonetic": "[ˈkɑːmənwelθ]",
+    "meanings": [
+      {
+        "id": "commonwealth-0",
+        "pos": "n.",
+        "text": "联邦",
+        "exampleEn": "The countries joined a commonwealth to cooperate on trade.",
+        "exampleZh": "这些国家加入了一个共同体，以便开展贸易合作。"
+      }
+    ]
+  },
+  {
+    "word": "newsletter",
+    "phonetic": "[ˈnuːzletər]",
+    "meanings": [
+      {
+        "id": "newsletter-0",
+        "pos": "n.",
+        "text": "通讯",
+        "exampleEn": "The school sends a newsletter to parents each month.",
+        "exampleZh": "学校每月向家长发送一份简报。"
+      }
+    ]
+  },
+  {
+    "word": "periodical",
+    "phonetic": "[ˌpɪriˈɑːdɪkl]",
+    "meanings": [
+      {
+        "id": "periodical-0",
+        "pos": "n.",
+        "text": "期刊",
+        "exampleEn": "She published an article in a scientific periodical.",
+        "exampleZh": "她在一本科学期刊上发表了一篇文章。"
+      },
+      {
+        "id": "periodical-1",
+        "pos": "adj.",
+        "text": "定期的",
+        "exampleEn": "The equipment requires periodical inspection.",
+        "exampleZh": "该设备需要定期检查。"
+      }
+    ]
+  },
+  {
+    "word": "receptionist",
+    "phonetic": "[rɪˈsepʃənɪst]",
+    "meanings": [
+      {
+        "id": "receptionist-0",
+        "pos": "n.",
+        "text": "接待员",
+        "exampleEn": "The receptionist asked me to wait in the lobby.",
+        "exampleZh": "接待员请我在大厅等候。"
+      }
+    ]
+  },
+  {
+    "word": "security",
+    "phonetic": "[sɪˈkjʊrəti]",
+    "meanings": [
+      {
+        "id": "security-0",
+        "pos": "n.",
+        "text": "安全",
+        "exampleEn": "The airport increased security after the incident.",
+        "exampleZh": "事件发生后，机场加强了安保。"
+      },
+      {
+        "id": "security-1",
+        "pos": "n.",
+        "text": "安全感",
+        "exampleEn": "A stable income can provide a sense of security.",
+        "exampleZh": "稳定的收入可以带来安全感。"
+      }
+    ]
+  },
+  {
+    "word": "clip",
+    "phonetic": "[klɪp]",
+    "meanings": [
+      {
+        "id": "clip-0",
+        "pos": "n.",
+        "text": "夹子",
+        "exampleEn": "She used a clip to hold the papers together.",
+        "exampleZh": "她用夹子把文件夹在一起。"
+      },
+      {
+        "id": "clip-1",
+        "pos": "n.",
+        "text": "片段",
+        "exampleEn": "We watched a short clip from the film.",
+        "exampleZh": "我们看了一段电影片段。"
+      },
+      {
+        "id": "clip-2",
+        "pos": "v.",
+        "text": "剪下",
+        "exampleEn": "He clipped a small branch from the tree.",
+        "exampleZh": "他从树上剪下一根小树枝。"
+      }
+    ]
+  },
+  {
+    "word": "apace",
+    "phonetic": "[əˈpeɪs]",
+    "meanings": [
+      {
+        "id": "apace-0",
+        "pos": "adv.",
+        "text": "快速地",
+        "exampleEn": "Work on the new hospital is proceeding apace.",
+        "exampleZh": "新医院的建设工作正在快速推进。"
+      }
+    ]
+  },
+  {
+    "word": "yield",
+    "phonetic": "[jiːld]",
+    "meanings": [
+      {
+        "id": "yield-0",
+        "pos": "n.",
+        "text": "产量",
+        "exampleEn": "The farmer expects a higher yield this year.",
+        "exampleZh": "农民预计今年的产量会更高。"
+      },
+      {
+        "id": "yield-1",
+        "pos": "v.",
+        "text": "产生",
+        "exampleEn": "The research yielded useful results.",
+        "exampleZh": "这项研究产生了有用的结果。"
+      },
+      {
+        "id": "yield-2",
+        "pos": "v.",
+        "text": "让步",
+        "exampleEn": "Neither side was willing to yield during the talks.",
+        "exampleZh": "谈判期间双方都不愿让步。"
+      }
+    ]
+  },
+  {
+    "word": "fair",
+    "phonetic": "[fer]",
+    "meanings": [
+      {
+        "id": "fair-0",
+        "pos": "adj.",
+        "text": "公平的",
+        "exampleEn": "The teacher made sure the competition was fair.",
+        "exampleZh": "老师确保比赛是公平的。"
+      }
+    ]
+  }
+]

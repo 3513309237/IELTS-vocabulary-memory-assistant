@@ -1,0 +1,7 @@
+# Local browser automation/test artifacts
+.test-edge-profile/
+
+# Editor and OS metadata
+.DS_Store
+Thumbs.db
+*.swp

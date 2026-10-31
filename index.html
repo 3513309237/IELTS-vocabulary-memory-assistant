@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>雅思词汇记忆 - Word List 01</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">IELTS VOCABULARY</p>
+        <h1>Word List 01</h1>
+      </div>
+      <div id="overallProgress" class="overall-progress"></div>
+    </header>
+
+    <section id="app" aria-live="polite"></section>
+
+    <footer class="footer-actions">
+      <button id="exportBtn" class="text-button">导出进度</button>
+      <label class="text-button file-button">导入进度<input id="importInput" type="file" accept="application/json"></label>
+      <button id="clearBtn" class="text-button danger-button" type="button">清除所有进度</button>
+      <span class="footer-note">数据只保存在这台电脑的浏览器中</span>
+    </footer>
+  </main>
+  <script src="words.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
